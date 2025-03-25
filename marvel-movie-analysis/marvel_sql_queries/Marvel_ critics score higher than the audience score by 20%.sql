@@ -1,0 +1,2 @@
+SELECT Title,`Rotten Tomatoes - Audience (scored out of 100%)` AS rottenAudience,`Rotten Tomatoes - Critics (scored out of 100%)`AS rottenCritics FROM marvel
+WHERE (`Rotten Tomatoes - Critics (scored out of 100%)`-`Rotten Tomatoes - Audience (scored out of 100%)`) >= 20;
