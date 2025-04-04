@@ -1,1 +1,1 @@
-[Liver Department Dashboard Tableau Link](https://public.tableau.com/views/LiverDepartmentDashboardv1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Liver Department Dashboard Tableau Link](https://public.tableau.com/views/LiverDepartmentDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
