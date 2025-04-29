@@ -8,7 +8,7 @@ By bringing attention to trends through data, this dashboard aims to support men
 
 Tools:
 Excel (data cleaning & prep)
-
+SQL queries 
 Tableau (dashboard design and interactivity)
 
 How This Can Help Future Clients:
