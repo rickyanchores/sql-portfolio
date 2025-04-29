@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total FROM who_suicide_statistics;

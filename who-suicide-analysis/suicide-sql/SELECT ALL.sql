@@ -1,0 +1,1 @@
+SELECT * FROM who_suicide_statistics;
